@@ -11,9 +11,9 @@
     }
   ],
   "start_url": "./?v3&utm_source=web_app_manifest",
-  "background_color": "#1b1b3c",
+  "background_color": "#ffffff",
   "theme_color": "#1b1b3c",
-  "color": "#ffffff",
+  "color": "#000000",
   "display": "standalone",
   "related_applications": [{
     "platform": "web",
